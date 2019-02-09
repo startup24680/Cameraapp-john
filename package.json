@@ -1,0 +1,16 @@
+{
+  "name": "cameraapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "pi-camera": "^1.2.1"
+  }
+}
